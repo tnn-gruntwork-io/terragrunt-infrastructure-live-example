@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------------------------------------------------
 # TERRAGRUNT CONFIGURATION
 # This is the configuration for Terragrunt, a thin wrapper for Terraform that helps keep your code DRY and
-# maintainable: https://github.com/gruntwork-io/terragrunt
+# maintainable: https://github.com/tnn-gruntwork-io/terragrunt
 # ---------------------------------------------------------------------------------------------------------------------
 
 # We override the terraform block source attribute here just for the QA environment to show how you would deploy a
